@@ -6,7 +6,7 @@ Please refer to  and cite the research paper: Hu and Ma (2020), "Human Interacti
 
 **For academic research purposes only. Please do not distribute or share.**
 
-For feedbacks, please email: song.ma@yale.edu and allen.hu@yale.edu.
+Is for feedbacks, please email: song.ma@yale.edu and allen.hu@yale.edu.
 
 
 
